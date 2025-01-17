@@ -1,1 +1,0 @@
-This is a Terraform Module to create an Azure Virtual network with NSG rules
